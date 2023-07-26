@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    background-color: aquamarine;
+
+}
+
+
+.site-name{
+    padding: 10px 20px;
+    font-size: 25px;
+    color: orange;
+
+}
+.site-menu{
+    padding: 10px 20px;
+    margin: 5px;
+
+}
+a{
+    text-decoration: none;
+    color: blue;
+    margin: 0px 20px;
+    padding: 80px;
+}
